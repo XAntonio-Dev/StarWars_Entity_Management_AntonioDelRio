@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Star Wars Species</string>
+    <string name="add_species">Add Species</string>
+    <string name="name">Name</string>
+    <string name="classification">Classification</string>
+    <string name="designation">Designation</string>
+    <string name="language">Language</string>
+    <string name="discovery_date_dd_mm_yyyy">Discovery Date (DD-MM-YYYY)</string>
+    <string name="artificial">Artificial</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="wookiee">Wookiee</string>
+    <string name="mammal">Mammal</string>
+    <string name="rare">Rare</string>
+    <string name="shyriiwook">Shyriiwook</string>
+    <string name="_05_07_2010">05-07-2010</string>
+    <string name="edit_species">Edit Species</string>
+    <string name="species_list">Species List</string>
+    <string name="registered_species">Registered Species</string>
+    <string name="add_new_species">Add New Species</string>
+    <string name="name2">Name</string>
+    <string name="language2">Language</string>
+    <string name="discovery_date_dd_mm_yyyy2">Discovery Date (DD-MM-YYYY)</string>
+    <string name="artificial2">Artificial</string>
+    <string name="save">Save</string>
+    <string name="create2">Create</string>
+    <string name="edit">Edit</string>
+    <string name="species_list_title">Star Wars Species</string>
+    <string name="no_data">No hay datos</string>
+    <string name="progress_message">Cargando...</string>
+    <string name="icono_de_especie">Icono de especie</string>
+    <string name="resgistered_species">resgistered species</string>
+</resources>
