@@ -39,7 +39,7 @@ Para el correcto funcionamiento de la aplicación en dispositivos con Android 13
 En esta versión (Tarea 4) se ha priorizado la robustez del dato y la experiencia de usuario (UX). Se han implementado validaciones en tiempo real en los formularios (feedback visual en rojo) y se ha migrado de un repositorio de datos estático a uno dinámico con Room, asegurando que no se pierda información entre sesiones.
 
 ## 🎥 Demo
-[Ver vídeo de funcionamiento](assets/video_demostracion)
+[Ver vídeo de funcionamiento](assets/video_demostracion.mp4)
 
 ---
 **Desarrollado por:** Antonio Del Rio
